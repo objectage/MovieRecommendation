@@ -24,7 +24,7 @@ To run the recommendation system:
 
 ## Personal Journey and Learning Experience
 
-This project was an incredible learning experience, sparking my interest in Machine Learning and the inner workings of recommendation systems. As a beginner, building this system from scratch allowed me to understand the foundational concepts of data manipulation and the Pearson correlation, which are pivotal in the field of ML. It was a hands-on project that showcased the practical application of theory and the exciting possibilities that Machine Learning has to offer.
+This project was an incredible learning experience, sparking my interest in Machine Learning and the inner workings of recommendation systems. As a beginner in 2019, building this system from scratch allowed me to understand the foundational concepts of data manipulation and the Pearson correlation, which are pivotal in the field of ML. It was a hands-on project that showcased the practical application of theory and the exciting possibilities that Machine Learning has to offer.
 
 ### Extras
 
